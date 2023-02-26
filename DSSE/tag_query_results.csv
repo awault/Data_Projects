@@ -1,0 +1,21 @@
+Id,TagName,Count,Excerpt
+"2","machine-learning","11051","Machine Learning is a subfield of computer science that draws on elements from algorithmic analysis, computational statistics, mathematics, optimization, etc. It is mainly concerned with the use of data to construct models that have high predictive/forecasting ability. Topics include modeling building, applications, theory, etc.
+"
+"46","python","6558","Use for data science questions related to the programming language Python. Not intended for general coding questions (which should be asked on Stack Overflow). "
+"194","deep-learning","4775","a new area of Machine Learning research concerned with the technologies used for learning hierarchical representations of data, mainly done with deep neural networks (i.e. networks with two or more hidden layers), but also with some sort of Probabilistic Graphical Models."
+"81","neural-network","4280","Artificial neural networks (ANN), are composed of 'neurons' - programming constructs that mimic the properties of biological neurons. A set of weighted connections between the neurons allows information to propagate through the network to solve artificial intelligence problems without the network designer having had a model of a real system."
+"77","classification","3180","An instance of supervised learning that identifies the category or categories which a new instance of dataset belongs."
+"324","keras","2728","Keras is a popular, open-source deep learning API for Python built on top of TensorFlow and is useful for fast implementation. Topics include efficient low-level tensor operations, computation of arbitrary gradients, scalable computations, export of graphs, etc."
+"47","nlp","2553","Natural language processing (NLP) is a field of computer science, artificial intelligence, and linguistics concerned with the interactions between computers and human (natural) languages. As such, NLP is related to the area of human–computer interaction. Many challenges in NLP involve natural language understanding, that is, enabling computers to derive meaning from human or natural language input, and others involve natural language generation."
+"128","scikit-learn","2258","scikit-learn is a popular machine learning package for Python that has simple and efficient tools for predictive data analysis. Topics include classification, regression, clustering, dimensionality reduction, model selection, and preprocessing."
+"321","tensorflow","2183","TensorFlow is an open source library for machine learning and machine intelligence.  TensorFlow uses data flow graphs with tensors flowing along edges. For details, see https://www.tensorflow.org.  TensorFlow is released under an Apache 2.0 License."
+"72","time-series","1812","Time series are data observed over time (either in continuous time or at discrete time periods).
+"
+"157","regression","1544","Techniques for analyzing the relationship between one (or more) ""dependent"" variables and ""independent"" variables.
+"
+"24","r","1481","R is a free, open-source programming language and software environment for statistical computing, bioinformatics, and graphics."
+"61","dataset","1438","A dataset is a collection of data, often in tabular or matrix form.
+
+This tag is NOT intended for data requests (""where can I find a dataset about ..."") --> see OpenData"
+"557","cnn","1370","Convolutional Neural Networks (CNN, also called ConvNets) are a tool used for classification tasks and image recognition.  The name giving first step is the extraction of features from the input data. "
+"15","clustering","1359","Cluster analysis or clustering is the task of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some sense or another) to each other than to those in other groups (clusters). It is a main task of exploratory data mining, and a common technique for statistical data analysis, used in many fields, including machine learning, pattern recognition, image analysis, information retrieval etc."
